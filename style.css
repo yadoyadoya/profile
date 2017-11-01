@@ -107,6 +107,10 @@ td, th {
   color: #788188;
 }
 
+#sidebar a:hover {
+  opacity: 0.3;
+}
+
 #sidebar ul {
   list-style: none;
   padding-left: 0px;
